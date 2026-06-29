@@ -32,13 +32,6 @@ https://mellow-horse-b5c23a.netlify.app/
 OMusic/
 │
 ├── index.html
-├── css/
-│   └── style.css
-├── js/
-│   └── script.js
-├── assets/
-│   ├── images/
-│   └── icons/
 └── README.md
 ```
 
