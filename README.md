@@ -16,7 +16,7 @@ OMusic is a sleek and responsive music discovery web application that lets users
 Add your deployed link here:
 
 ```text
-https://mellow-horse-b5c23a.netlify.app/
+https://curious-macaron-c3287d.netlify.app/
 ```
 
 ## 🛠️ Technologies Used
